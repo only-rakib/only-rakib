@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on Python, Django Framework , Javascript, NodeJS ,Bootstrap
 - 🌱 I’m currently learning Django for making better my developing skill
 - 👯 I’m looking to collaborate on opensource project
+- 👋 I have experience on arduino
 - 🤔 I’m looking for help with system design and best practices
 
 
