@@ -3,9 +3,10 @@
 <h1>About me</h1>
 Hi, my name is Rakibul Hasan, I'm an intermediate programmer who loves to contribute to open source, forums, social networks, etc.
 
-I like airplanes, the mathematics, the science, the computers, the forums, and a lot of things more.🧾💻
+I like airplanes, the mathematics, the science, the computers, the forums, and a lot of things more.
 </div>
-## I Work with:
+
+## I work with
 
 🎭Languages:
 <p align="center">
