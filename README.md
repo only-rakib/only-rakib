@@ -16,3 +16,10 @@
 - Sharing updates on <a href="https://www.linkedin.com/in/rakibul-hasan-rakib-635135117/">LinkedIn</a> 📸
 
 
+##### Stats:
+
+[![Encrypted github stats](https://github-readme-stats.vercel.app/api?username=only-rakib&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=only-rakib&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/only-rakib/only-rakib/edit/main/README.md)
