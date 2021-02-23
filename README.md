@@ -5,12 +5,21 @@
 **only-rakib/only-rakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Python, Django Framework , Javascript, NodeJS ,Bootstrap
-- 🌱 I’m currently learning Django for making better my developing skill
-- 👯 I’m looking to collaborate on opensource project
-- 👋 I have experience on arduino
-- 🤔 I’m looking for help with system design and best practices
+## I Work with:
 
+🎭Languages:
+<p align="center">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img src="https://img.shields.io/badge/python%203%20-%23417FB0.svg?&style=for-the-badge&logo=python&logoColor=white"/>   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/++%20-%231572B6.svg?&style=for-the-badge&logo=c&logoColor=white"> 
+</p>
+
+🎇Utilities:
+<p align="center">
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=red"/> 
+</p>
+
+🏆Platforms I Use:
+
+<img src="https://img.icons8.com/dusk/100/000000/epic-games.png" height="50em"/> <img src="https://img.icons8.com/plasticine/100/000000/twitch.png" height="50em"/> <img src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png" height="50em"/> <img src="https://img.icons8.com/dusk/100/000000/reddit.png" height="50em"/> <img src="https://img.icons8.com/plasticine/100/000000/github.png" height="50em"/>
 
 #### Contact:
 
