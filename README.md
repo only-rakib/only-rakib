@@ -1,10 +1,10 @@
-## Hi I'm Md Rakibul Hasan 👋 👤🇧🇩
-### Fullstack Software Developer who is addicted to learning and loves working with people
+### Assalamualaikum
+<div align="center">
+<h1>About me</h1>
+Hi, my name is Rakibul Hasan, I'm an intermediate programmer who loves to contribute to open source, forums, social networks, etc.
 
-<!--
-**only-rakib/only-rakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
+I like airplanes, the mathematics, the science, the computers, the forums, and a lot of things more.🧾💻
+</div>
 ## I Work with:
 
 🎭Languages:
