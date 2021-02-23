@@ -12,8 +12,15 @@
 - 🤔 I’m looking for help with system design and best practices
 
 
-## Find me around the web 🌎:
-- Sharing updates on <a href="https://www.linkedin.com/in/rakibul-hasan-rakib-635135117/">LinkedIn</a> 📸
+#### Contact:
+
+<a href="https://discord.com/users/398119183923281921">
+<img src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" height="50em"/>
+</a>
+<br>
+<a href="https://stackoverflow.com/users/9247896/rakibul-hasan">
+<img src="https://github.com/uannabi/-/blob/master/resource/social/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow icode"/>
+</a>
 
 
 ##### Stats:
