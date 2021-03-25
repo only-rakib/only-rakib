@@ -35,7 +35,7 @@ I like airplanes, the mathematics, the science, the computers, the forums, and a
 
 ##### Stats:
 
-[![Encrypted github stats](https://github-readme-stats.vercel.app/api?username=rhasanrakibb&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Encrypted github stats](https://github-readme-stats.vercel.app/api?username=rhasanrakib&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhasanrakib&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
